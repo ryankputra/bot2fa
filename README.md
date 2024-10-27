@@ -5,3 +5,7 @@
 chmod +x install_bot.sh
 ./install_bot.sh
 </code></pre>
+
+UJI BOT
+<pre><code>sudo systemctl status telegram-bot.service
+</code></pre>
