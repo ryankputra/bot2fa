@@ -1,7 +1,7 @@
 # Instalasi Bot Telegram 2FA
 
 # install nggo iki neng vps
-<pre><code>wget https://raw.githubusercontent.com/ryankputra/xnew/main/Bot/install_bot.sh
+<pre><code>wget wget https://raw.githubusercontent.com/ryankputra/bot2fa/main/install_bot.sh
 chmod +x install_bot.sh
 ./install_bot.sh
 </code></pre>
